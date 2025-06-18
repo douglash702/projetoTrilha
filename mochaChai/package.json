@@ -1,0 +1,21 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing"
+  ],
+  "author": "Douglas Henrique Silva",
+  "license": "MIT",
+  "description": "Projeto para testes com Mocha e Chai",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
